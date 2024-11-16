@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.notfound {
+  width: 60%;
+}
+.heading1 {
+  color: #6d396b;
+}
